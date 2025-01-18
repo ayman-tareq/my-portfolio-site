@@ -15,7 +15,8 @@ with col1:
     st.subheader("Data Engineer at Algesoft")
     st.write(
         """Zahir Brothers, Shulokbohor, Panchlaish, Chattogram  
-+88 01815-475818  
++88 01815-475818 (WhatsApp Only)
+
 [LinkedIn](https://www.linkedin.com/in/aymantareq-97/) | [Email](mailto:tareq.iiuc.eb@gmail.com) | [GitHub](https://github.com/ayman-tareq)
         """
     )
